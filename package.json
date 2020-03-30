@@ -1,0 +1,30 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "ExpreJs",
+    "Boilerplate"
+  ],
+  "author": "Madhav Palshikar",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "express-handlebars": "^4.0.0",
+    "express-jwt": "^5.3.1",
+    "express-sessions": "^1.0.6",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "mongoose": "^5.9.7",
+    "mysql": "^2.18.1",
+    "redis": "^3.0.2"
+  }
+}
