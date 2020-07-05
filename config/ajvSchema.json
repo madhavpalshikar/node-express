@@ -1,0 +1,12 @@
+{
+    "properties":{
+        "name": { "type":"string" },
+        "age": { "type": "number" },
+        "year": { "type": "number" }
+    },
+    "required":[
+        "name",
+        "age"
+    ],
+    "additionalProperties": false
+}
